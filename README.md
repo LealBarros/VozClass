@@ -4,8 +4,9 @@ Muitos alunos têm dificuldade ou vergonha de falar diretamente com os professor
 
 Isso faz com que o professor nem sempre saiba quando os alunos estão com dificuldades, podendo continuar uma explicação sem perceber que parte da turma não compreendeu o conteúdo.
 
-## Solução
 
+
+## Solução
 
 Criar um aplicativo que funcione como um canal de comunicação entre alunos e professores, permitindo que os estudantes enviem dúvidas, sugestões e avaliações sobre as aulas.
 
