@@ -3,9 +3,6 @@
 Muitos alunos têm dificuldade ou vergonha de falar diretamente com os professores para tirar dúvidas, principalmente quando precisam perguntar algo que não entenderam durante a aula. Alguns também deixam de dar opiniões ou sugestões sobre a forma como a aula está sendo conduzida por medo de serem julgados ou de criar uma situação desconfortável.
 
 Isso faz com que o professor nem sempre saiba quando os alunos estão com dificuldades, podendo continuar uma explicação sem perceber que parte da turma não compreendeu o conteúdo.
-
-
-
 ## Solução
 
 Criar um aplicativo que funcione como um canal de comunicação entre alunos e professores, permitindo que os estudantes enviem dúvidas, sugestões e avaliações sobre as aulas.
