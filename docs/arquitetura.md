@@ -1,5 +1,5 @@
 # Modelagem do Canal de Comunicação
-
+Cartão do Trello correspondente: https://trello.com/c/4nAUnZM7
 ```mermaid
 flowchart TD
     %% Definição de Estilos
